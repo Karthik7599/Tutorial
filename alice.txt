@@ -1,3 +1,2 @@
 Hi How Are You?
-Learning Command Line.
-Hard to understand
+Learning Command Line
